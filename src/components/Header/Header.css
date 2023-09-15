@@ -1,0 +1,26 @@
+.header-img {
+  text-align: center;
+  padding: 5px 0;
+}
+
+.header-img img {
+  width: 20%;
+}
+
+.header nav {
+  background: #000;
+  line-height: 40px;
+}
+
+.header nav ul {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+  font-weight: 300;
+  padding-left: 45px;
+}
+
+.header nav ul a {
+  text-decoration: none;
+  color: white;
+}
